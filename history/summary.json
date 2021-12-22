@@ -25,19 +25,19 @@
     "url": "https://www.bugsyhq.com",
     "icon": "https://favicons.githubusercontent.com/www.bugsyhq.com",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 352,
-    "timeWeek": 316,
-    "timeMonth": 308,
-    "timeYear": 426,
+    "time": 425,
+    "timeDay": 359,
+    "timeWeek": 322,
+    "timeMonth": 310,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2021-12-22": 0
+      "2021-12-22": 6
     }
   }
 ]
